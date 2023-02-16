@@ -1,11 +1,10 @@
-#!/bin/bash
 #include <stdio.h>
 
 /**
  * main - Main function
  *
  * Return: always 0
-
+*/
 
 
 int main()
