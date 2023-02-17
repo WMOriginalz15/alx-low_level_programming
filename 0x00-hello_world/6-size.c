@@ -3,7 +3,7 @@
 /**
  * main - Main function
  *
- * Return: always 0
+ * Return: Always 0 (Success)
 */
 
 
